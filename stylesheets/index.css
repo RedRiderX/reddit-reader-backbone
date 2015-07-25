@@ -177,7 +177,7 @@ body {
 }
 
 .post .title {
-    color: black;
+    color: rgba(0,0,0,0.9);
     font-size: 140%;
     margin-bottom: 5px;
 }
@@ -493,10 +493,6 @@ body {
 
     #comments-page-body {
         padding: 5px;
-    }
-
-    #comments-container {
-        padding: 20px;
     }
 
     .comment {
